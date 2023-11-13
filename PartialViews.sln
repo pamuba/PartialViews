@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialViews", "PartialViews.csproj", "{4D688BBB-23E5-4502-9CA2-77AC0FC71352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialViews", "PartialViews.csproj", "{4D688BBB-23E5-4502-9CA2-77AC0FC71352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewComponentsDemo", "..\ViewComponents\ViewComponentsDemo.csproj", "{D51D64B0-8432-4DD7-A73A-0033F4E1CC72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4D688BBB-23E5-4502-9CA2-77AC0FC71352}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D688BBB-23E5-4502-9CA2-77AC0FC71352}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D688BBB-23E5-4502-9CA2-77AC0FC71352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51D64B0-8432-4DD7-A73A-0033F4E1CC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51D64B0-8432-4DD7-A73A-0033F4E1CC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51D64B0-8432-4DD7-A73A-0033F4E1CC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51D64B0-8432-4DD7-A73A-0033F4E1CC72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
